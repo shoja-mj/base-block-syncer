@@ -4,7 +4,7 @@ import time
 
 # ========================================================
 # EDIT THIS VARIABLE TO GENERATE A NEW PUBLIC COMMIT
-VERSION_COMMIT_TRIGGER = 8
+VERSION_COMMIT_TRIGGER = 9
 # ========================================================
 
 class BaseBlockSyncer:
